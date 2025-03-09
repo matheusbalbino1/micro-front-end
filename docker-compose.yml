@@ -1,0 +1,26 @@
+version: "3.8"
+
+services:
+  host:
+    build:
+      context: ./host
+      dockerfile: Dockerfile
+    ports:
+      - "4200:4200"
+    networks:
+      - app-network
+    depends_on:
+      - lego_module
+
+  lego_module:
+    build:
+      context: ./lego_module
+      dockerfile: Dockerfile
+    ports:
+      - "4201:4201"
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

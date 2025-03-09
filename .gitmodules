@@ -1,0 +1,6 @@
+[submodule "host-app"]
+	path = host-app
+	url = git@github.com:matheusbalbino1/host-app.git
+[submodule "lego_module"]
+	path = lego_module
+	url = git@github.com:matheusbalbino1/lego_module.git
