@@ -26,7 +26,8 @@ docker compose up --build
 ```
 
 ## 🌍 **Acesso às Aplicações**
-
+- 🔹 **Host Application Vercel:** [`https://host-app-lovat.vercel.app/clients`](https://host-app-lovat.vercel.app/clients)
+- 🔹 **Lego Module Application Vercel:** [`https://host-app-lovat.vercel.app/clients`](https://lego-module.vercel.app/)
 - 🔹 **Host Application:** [`http://localhost:4200`](http://localhost:4200)
 - 🔹 **Lego Module Application:** [`http://localhost:4201`](http://localhost:4201)
 
