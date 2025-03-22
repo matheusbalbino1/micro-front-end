@@ -10,7 +10,7 @@ Antes de iniciar, certifique-se de ter o **Docker** instalado em sua máquina.
 
 ```sh
 git clone git@github.com:matheusbalbino1/teddy-mfe.git
-cd teddy-mfe
+cd micro-front-end
 ```
 
 2️⃣ **Atualize os submódulos:**
