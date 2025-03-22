@@ -9,7 +9,7 @@ Antes de iniciar, certifique-se de ter o **Docker** instalado em sua máquina.
 1️⃣ **Clone o repositório:**
 
 ```sh
-git clone git@github.com:matheusbalbino1/teddy-mfe.git
+git clone git@github.com:matheusbalbino1/micro-front-end.git
 cd micro-front-end
 ```
 
